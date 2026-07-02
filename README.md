@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="docs/images/logo.png" alt="NovaDesk Logo" width="250" />
   <h1>NovaDesk</h1>
   <p><b>The All-in-One Native macOS Developer Workspace</b></p>
   
