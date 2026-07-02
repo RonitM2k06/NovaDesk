@@ -56,15 +56,6 @@ For deeper insights, read our [Architecture Guide](docs/ARCHITECTURE.md).
 
 ---
 
-## 📸 Screenshots
-*(Screenshots placeholders. To be replaced upon final UI polish on macOS)*
-
-| Dashboard | Git Workspace | AI Assistant |
-| --- | --- | --- |
-| ![Dashboard](docs/images/dashboard_preview.png) | ![Git](docs/images/git_preview.png) | ![AI](docs/images/ai_preview.png) |
-
----
-
 ## 💻 Installation
 
 Currently, NovaDesk is distributed as a source package and must be compiled via Xcode.
